@@ -1,0 +1,51 @@
+Data Analysis Projects: Sales Performance & Market Basket Analysis
+📋 Project Overview
+This repository contains two comprehensive data analysis projects that demonstrate my proficiency in Python, MySQL, and data-driven decision making. Both projects showcase end-to-end analytical workflows - from data generation and database management to advanced analytics and business recommendations.
+
+🚀 Projects
+1. Sales Performance Analysis (Customer Churn Prediction)
+Objective: Predict customer attrition using historical behavior and transaction data to identify at-risk customers and develop retention strategies.
+
+Key Features:
+
+✅ Customer churn prediction using Random Forest & Logistic Regression
+
+✅ 85% model accuracy in identifying potential churners
+
+✅ 16+ engineered features including order frequency, recency, and customer lifetime metrics
+
+✅ High-risk customer identification with probability scoring
+
+✅ Actionable retention strategies and recommendations
+
+Technologies Used:
+
+Python (Pandas, NumPy, Scikit-learn)
+
+MySQL Database
+
+Machine Learning (Random Forest, Logistic Regression)
+
+Data Visualization (Matplotlib, Seaborn)
+
+2. Market Basket Analysis
+Objective: Uncover frequently purchased product combinations using association rule mining to enable cross-selling and product bundling strategies.
+
+Key Features:
+
+✅ Implemented Apriori algorithm for association rule mining
+
+✅ Analyzed 1000+ transactions with 50+ products across 8 categories
+
+✅ Identified top product pairs with support, confidence, and lift metrics
+
+✅ Cross-category association analysis
+
+✅ 5 strategic recommendations for revenue optimization
+
+Technologies Used:
+
+Python (Pandas, NumPy, mlxtend)
+
+MySQL Database
+
